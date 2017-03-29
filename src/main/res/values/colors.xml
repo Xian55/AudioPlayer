@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="online_green">#259b24</color>
+
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#e6e9ff</color>
+    <color name="accent">#FF5722</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+	
+	
+    <color name="act_import_files">#8A4B42</color>
+    <color name="btn_import_files">#979797</color>
+    <color name="gray">#979797</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darker_gray">#1F1D1E</color>
+    <color name="dark_gray">#ff403e3f</color>
+    <color name="blue">#72BAE7</color>
+	
+</resources>
+

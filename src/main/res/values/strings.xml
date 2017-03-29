@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Audio Player</string>
+
+    <string name="main_activity_title">Audio Player</string>
+    <string name="better_music">Lifes better with Music</string>
+
+    <string name="ic_played_music_count">Played:</string>
+    <string name="ic_songs_count">Total Songs:</string>
+    <string name="ic_last_played_song">Last Played:</string>
+
+
+
+    <string name="saved_played_music_count">xii.protonox.hu.audioplayer.PLAYED_MUSIC_COUNT</string>
+
+    <string name="saved_last_played_name">xii.protonox.hu.audioplayer.LAST_PLAYED_NAME</string>
+    <string name="saved_list_count">xii.protonox.hu.audioplayer.LIST_COUNT</string>
+
+</resources>
